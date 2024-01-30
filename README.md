@@ -2,3 +2,5 @@
 rebase again
 updating before conflict
 updating 4th line
+conflict error
+
